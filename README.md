@@ -6,7 +6,7 @@ cross-struggle solidarity in it's DNA. While the environment focuses
 primarily on bicycles and sharing of knowledge (and therefore power), the
 overall entity considers agendas of movements concerned with building
 sustainable, fair, ecologically balanced systems and ending abuse and
-unjust oppression fundamental to formatting its ethics and policy. Some
+unjust oppression, including oppression of earth's natural ecosystems, fundamental to formatting its ethics and policy. Some
 might, at a glance, wonder if these observances are out of scope,
 considering the bicycle is a machine. What do social movements have to do
 with a machine?
