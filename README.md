@@ -1,44 +1,18 @@
 # politics-manifesto
 General premises and intentions for why we exist.
 
-Recycle Ithaca's Bicycles is an environment and an entity with activism and
-cross-struggle solidarity in it's DNA. While the environment focuses
-primarily on bicycles and sharing of knowledge (and therefore power), the
-overall entity considers agendas of movements concerned with building
-sustainable, fair, ecologically balanced systems and ending abuse and
-unjust oppression, including oppression of earth's natural ecosystems, fundamental to formatting its ethics and policy. Some
-might, at a glance, wonder if these observances are out of scope,
-considering the bicycle is a machine. What do social movements have to do
-with a machine?
+The premise of Recycle Ithaca's Bicycles is to be true to the idea of a closed circle.
 
-That answer can be found in exactly what kind of machine a bicycle is.
-A bicycle holds a rare place among humanity's inventions; once made,
-it requires little in the way of further natural resources to fulfill
-its function. It is not disposable - the primary components of bicycles
-can, if properly tended, perform their functions for multiple human
-lifetimes. Relatively little money is required to maintain a bicycle, and
-relatively little space. Even to the present day, it has been calculated
-to be the most efficient land vehicle ever invented. Bicycles, in most
-places, do not require a license or insurance to operate, and yet are
-fully privileged vehicles on the street. Bicycles are simple enough for
-anyone to understand, and complex enough that the process of understanding
-them will educate the observer in enduring principles of design and physics
-applicable to devices and machinery at large.
+We take responsibility for, and make use of, everything we have. Only what we can't use do we discard, but even those things we make sure get put on a course away from being wasted. We make shop fixtures from broken parts. We keep old inner tubes for use by local craftspeople. We use scrap lumber for our workbenches and shelves. Nothing is waste, everything has some purpose. A lot of reuse requires clever thinking, developing and engineering methods to make use of what we have. We use these techniques in what we teach with our participants, and participants use them in what they teach with each other, which they can then apply to their daily lives. If something breaks in your home, is it garbage? No - you can fix it. And if you can't, you can repurpose it, or transfer it to somewhere where it can be utilized as a resource, rather than just adding to a landfill that burdens and potentially toxifies an ecosystem.
 
-In short, the bicycle is a working, physical schematic for equilibrium, for
-ecological responsibility, for egalitarianism, for efficiency, for erosion
-of class boundaries, for education, for liberation without undue destruction,
-for exponential empowerment, for freedom. It is one of the few devices to
-answer so many of humanity's needs and desires at so little cost. And all of
-these principles are contained in a form that has not diminished in its pure
-exhilarating fun for over a hundred and twenty years and counting.
+Recycle Ithaca's Bicycles is an environment and an entity with activism and cross-struggle solidarity in it's DNA. While the environment of RIBs focuses primarily on preservation and reuse of bicycles and sharing of knowledge (and therefore power), the overall entity considers that agendas of movements concerned with building sustainable, fair, ecologically balanced systems and ending abuse and unjust oppression, including oppression of earth's natural ecosystems, are fundamental to informing its ethics and policy. Some might, at a glance, wonder if these observances are out of scope, considering the bicycle is a machine. What do social movements have to do with a machine?
 
-So, in many ways Recycle Ithaca's Bicycles sees in the bicycle a hint at
-answers sought in the machinery of our own society. Struggles ignored by
-massive governmental systems and deeply biased social and economic gatekeepers
-can and are assisted easily by the bicycle and it's other well-built,
-well-designed, human-powered cousins. For Recycle Ithaca's Bicycles, awareness
-of abuse and unjust oppression, and the radical, liberating, creative,
-beautiful and balanced systems required to offset or end abuse and oppression,
-are one and the same as studying and understanding the nature of the bicycle
-and supporting and enhancing its use and reproduction.
+A bicycle holds a rare place among humanity's inventions; once made, it requires little in the way of further natural resources to fulfill its function. The only fuel it burns is the energy of the rider, and compared to other vehicles, it's construction uses a minimum of natural resources and materials. Cyclists also benefit from expending their energy, with increased cardiovascular, muscular, and mental health. The bicycle is not disposable - its primary components can, if properly tended, perform their functions for multiple human lifetimes. Reuse can multiply these properties.
+
+Relatively little money is required to maintain a bicycle, and relatively little space. Bicycles, in most places, do not require a license or insurance to operate, and yet are fully privileged vehicles, free to use every street, trail, and road. Bicycles are simple enough for anyone to understand, and complex enough that the process of understanding them will educate the observer in enduring principles of design and physics applicable to devices and machinery at large. Add to this that even to the present day, the bicycle has been calculated to be the most mechanically efficient land vehicle ever invented.
+
+In short, the bicycle, along with ia shared environment for maintenance and reuse, is a working, physical schematic for equilibrium, for ecological responsibility, for egalitarianism, for efficiency, for erosion of class boundaries, for education, for liberation without undue destruction, for exponential empowerment, for freedom. It is one of the few devices to answer so many of humanity's needs and desires at so little cost. And all of these principles are contained in a form that has not diminished in its pure exhilarating fun for over a hundred and twenty years and counting.
+
+So, in many ways Recycle Ithaca's Bicycles sees, in the bicycle and the DIY shops which support it, a hint at answers sought in the machinery of our own society. Struggles ignored by massive governmental systems and deeply biased social and economic gatekeepers can and are assisted easily by the bicycle and it's other well-built, well-designed, human-powered cousins.
+
+For Recycle Ithaca's Bicycles, awareness of abuse and unjust oppression, and the radical, liberating, creative, beautiful and balanced systems required to offset or end abuse and oppression, are one and the same as studying and understanding the nature of the bicycle and supporting and enhancing its use and reproduction.
